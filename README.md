@@ -1,5 +1,7 @@
 -Hi, I’m @NINJAHSTERco
--I’m interested in ...
+
+-I’m interested in Coding and Discord
+
 -I’m currently learning HTML 5 and JS
 
 <!---
